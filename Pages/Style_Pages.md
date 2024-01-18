@@ -12,7 +12,7 @@
 	<a href="/Pages/MJ_V5/Style_Pages/Just_The_Style/Rainbow_of_Colors.md"><picture>
 	<source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_rainbow_of_midjourney_colors_full.webp?raw=true" width = 580>
 	<source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_rainbow_of_midjourney_colors_full_light.webp?raw=true" width = 580>
-	<img alt="🌈 Rainbow of Midjourney Colors" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_rainbow_of_midjourney_colors_full.webp?raw=true" width = 580>
+	<img alt="🌈 彩虹般的Midjourney色彩" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_rainbow_of_midjourney_colors_full.webp?raw=true" width = 580>
 	</picture></a>
 	<br>
 	<a href="/Pages/MJ_V5/Style_Pages/Just_The_Style/Themes.md"><picture>
@@ -168,7 +168,7 @@
 	<a href="/Pages/MJ_V4/Style_Pages/Just_The_Style/Rainbow_of_Colors.md"><picture>
 	<source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_rainbow_of_midjourney_colors.webp?raw=true" width = 288>
 	<source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_rainbow_of_midjourney_colors_light.webp?raw=true" width = 288>
-	<img alt="🌈 Rainbow of Midjourney Colors" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_rainbow_of_midjourney_colors.webp?raw=true" width = 288>
+	<img alt="🌈 彩虹般的Midjourney色彩" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_rainbow_of_midjourney_colors.webp?raw=true" width = 288>
 	</picture></a>
 	<a href="/Pages/MJ_V4/Style_Pages/Just_The_Style/Emojis.md"><picture>
 	<source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_emojis_half.webp?raw=true" width = 288>
@@ -610,7 +610,7 @@
 	<a href="/Pages/MJ_V3/Style_Pages/Just_The_Style/Rainbow_of_Colors.md"><picture>
 	<source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_rainbow_of_midjourney_colors_full.webp?raw=true" width = 580>
 	<source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_rainbow_of_midjourney_colors_full_light.webp?raw=true" width = 580>
-	<img alt="🌈 Rainbow of Midjourney Colors" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_rainbow_of_midjourney_colors_full.webp?raw=true" width = 580>
+	<img alt="🌈 彩虹般的Midjourney色彩" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_rainbow_of_midjourney_colors_full.webp?raw=true" width = 580>
 	</picture></a>
 	<br>
 	<a href="/Pages/MJ_V3/Style_Pages/Just_The_Style/Themes.md"><picture>
@@ -763,7 +763,7 @@
 	<a href="/Pages/MJ_V3/Style_Pages/Sphere/Rainbow_of_Colors.md"><picture>
 	<source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_rainbow_of_midjourney_colors_full.webp?raw=true" width = 580>
 	<source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_rainbow_of_midjourney_colors_full_light.webp?raw=true" width = 580>
-	<img alt="🌈 Rainbow of Midjourney Colors" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_rainbow_of_midjourney_colors_full.webp?raw=true" width = 580>
+	<img alt="🌈 彩虹般的Midjourney色彩" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_rainbow_of_midjourney_colors_full.webp?raw=true" width = 580>
 	</picture></a>
 	<br>
 	<a href="/Pages/MJ_V3/Style_Pages/Sphere/Themes.md"><picture>
@@ -957,7 +957,7 @@
 	<a href="/Pages/MJ_V2/Style_Pages/Sphere/Rainbow_of_Colors.md"><picture>
 	<source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_rainbow_of_midjourney_colors_full.webp?raw=true" width = 580>
 	<source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_rainbow_of_midjourney_colors_full_light.webp?raw=true" width = 580>
-	<img alt="🌈 Rainbow of Midjourney Colors" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_rainbow_of_midjourney_colors_full.webp?raw=true" width = 580>
+	<img alt="🌈 彩虹般的Midjourney色彩" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_rainbow_of_midjourney_colors_full.webp?raw=true" width = 580>
 	</picture></a>
 	<br>
 	<a href="/Pages/MJ_V2/Style_Pages/Sphere/Themes.md"><picture>
@@ -1153,7 +1153,7 @@
 	<a href="/Pages/MJ_V1/Style_Pages/Sphere/Rainbow_of_Colors.md"><picture>
 	<source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_rainbow_of_midjourney_colors_full.webp?raw=true" width = 580>
 	<source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_rainbow_of_midjourney_colors_full_light.webp?raw=true" width = 580>
-	<img alt="🌈 Rainbow of Midjourney Colors" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_rainbow_of_midjourney_colors_full.webp?raw=true" width = 580>
+	<img alt="🌈 彩虹般的Midjourney色彩" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_rainbow_of_midjourney_colors_full.webp?raw=true" width = 580>
 	</picture></a>
 	<br>
 	<a href="/Pages/MJ_V1/Style_Pages/Sphere/Themes.md"><picture>
@@ -1255,7 +1255,7 @@
 	<a href="/Pages/MJ_V1/Style_Pages/Sphere/Intangibles.md"><picture>
 	<source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_intangibles.webp?raw=true" width = 190>
 	<source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_intangibles_light.webp?raw=true" width = 190>
-	<img alt="➰ Intangibles" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_intangibles.webp?raw=true" width = 190>
+	<img alt="➰ 无形元素" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_intangibles.webp?raw=true" width = 190>
 	</picture></a>
 
 	</div></p></details>
