@@ -11,8 +11,6 @@
 
 <div align="center">
 <a href="/Pages/Sponsors.md"><picture>
- # <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_sponsors.webp?raw=true" width = 377>
- # <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_sponsors_light.webp?raw=true" width = 377>
   <img alt="⭐ 赞助商"  width = 377>
 </picture></a>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/wiki/Submitting-Ideas-and-Pull-Requests"><picture>
